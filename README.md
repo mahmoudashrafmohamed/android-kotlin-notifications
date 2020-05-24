@@ -28,6 +28,5 @@ Getting Started
 ---------------
 
 1. Download
-2. Swtich to start branch
-3. Run the app.
+2. Run the app.
 
